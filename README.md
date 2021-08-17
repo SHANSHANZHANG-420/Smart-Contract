@@ -30,7 +30,8 @@ DeferredEquityPlan.sol — Level 3 starter code.
 
 
 
-Instructions
+## Instructions
+
 This assignment has three levels of difficulty, with each contract increasing in complexity and capability. Although it is highly recommended you complete all three contracts, you are only required to solve one of the three contracts. We recommend you start with Level 1, then move forward as you complete the challenges. You can build all three with the skills you already have!
 
 
@@ -44,7 +45,7 @@ Level Three is a DeferredEquityPlan that models traditional company stock plans.
 
 
 
-Starting your project
+## Starting your project
 Navigate to the Remix IDE and create a new contract called AssociateProfitSplitter.sol using the starter code for Level One above.
 While developing and testing your contract, use the Ganache development chain, and point MetaMask to localhost:8545, or replace the port with what you have set in your workspace.
 
